@@ -19,26 +19,35 @@
 	],
 	"resources": [
 	  {
-	    "path": "data/data.csv",
-			"name": "data",
+	    "path": "data/annexi.csv",
+			"name": "annexi",
 			"schema": {
 			  "fields": [
 			    {
-				  "name": "Code",
-				  "type": "string",
-				  "description": "A 2 character alpha numeric code value agreed by the UN/CEFACT content management group",
-				  "pattern": "[A-Z]{2}"
-					},
+				"path": "data/annexii&anne.csv",
+					"name": "annexii&annexiii",
+					"schema": {
+					"fields": [
 					{
-					  "name": "Name",
-					  "type": "string"
-				    },
-					{
-					  "name": "Description",
-					  "type": "string"
-					}
-			  ]
-			}	  
-	  }
-	]
-}
+						"name": "Group Number",
+						"type": "string",
+						"description": "A 2 character alpha numeric code value agreed by the UN/CEFACT content management group",
+						"pattern": "[A-Z]{2}"
+						},
+								{
+								  "name": "Sector",
+								  "type": "string"
+							    },
+								{
+								  "name": "Group ID",
+								  "type": "string"
+								}
+								{
+								  "name": "Group ID",
+								  "type": "string"
+								}
+						  ]
+						}	  
+				  }
+				]
+			}
