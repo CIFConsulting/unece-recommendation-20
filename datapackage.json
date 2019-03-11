@@ -22,30 +22,55 @@
 	    "path": "data/annexi.csv",
 			"name": "annexi",
 			"schema": {
-			  "fields": [
-			    {
-				"path": "data/annexii&anne.csv",
-					"name": "annexii&annexiii",
-					"schema": {
-					"fields": [
-					{
-						"name": "Group Number",
-						"type": "string",
-						"description": "A 2 character alpha numeric code value agreed by the UN/CEFACT content management group",
-						"pattern": "[A-Z]{2}"
+			"fields": [
+				{
+					"name": "Group Number",
+					"type": "string",
+					"description": "A 2 character alpha numeric code value agreed by the UN/CEFACT content management group",
+					"pattern": "[A-Z]{2}"
 						},
-								{
-								  "name": "Sector",
-								  "type": "string"
-							    },
-								{
-								  "name": "Group ID",
-								  "type": "string"
-								}
-								{
-								  "name": "Group ID",
-								  "type": "string"
-								}
+						{
+						"name": "Sector",
+						"type": "string"
+						"description":
+						"pattern":
+						},
+						{
+						"name": "Group ID",
+						"type": "string"
+									
+						},
+						{
+						"name": "Quantity",
+						"type": "string"
+						},
+						{
+						"name": "Level/Category",
+						"type": "string"
+						},
+						{
+						"name": "Common Code",
+						"type": "string"
+						},
+						{
+						"name": "Name",
+						"type": "string"
+						},
+						{
+						"name": "Conversion Factor",
+						"type": "string"
+						},
+						{
+						"name": "Description",
+						"type": "string"
+						},
+							{
+								"path": "data/annexii&anne.csv",
+								"name": "annexii&annexiii",
+								"schema": {
+								"fields": [
+									{
+							
 						  ]
 						}	  
 				  }
