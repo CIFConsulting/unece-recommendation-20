@@ -1,5 +1,7 @@
 # unece-recommendation-20
 
+Recommendation No. 20 is maintained on behalf of UN/CEFACT by the UN/CEFACT Information Content Management Group (ICG). Proposals for updating this Recommendation should be addressed to the Global Trade Solutions Section, United Nations Economic Commission for Europe, Palais des Nations, CH-1211 Geneva 10, Switzerland or by email (cefact@unece.org).
+
 Recommendation 20 Provides three character alphabetic and alphanumeric codes for representing units of measurement for length, area, volume/capacity, mass (weight), time, and other quantities used in international trade. The codes are intended for use in manual and/or automated systems for the exchange of information between participants in international trade.
 
 Facilitates use of Recommendation 20. The code list is presented in three separate annexes:
@@ -7,6 +9,7 @@ Facilitates use of Recommendation 20. The code list is presented in three separa
 Annex I – Code elements listed by quantity category;
 Annex II – Code elements listed by unit of measure name; and
 Annex III – Code elements listed by common code.
+
 
 ## Data
 
