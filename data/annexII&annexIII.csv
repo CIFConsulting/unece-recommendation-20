@@ -230,8 +230,8 @@ D,A83,Gaussian CGS (Centimetre-Gram-Second system) unit of magnetization,,3.5,,
 ,A84,gigacoulomb per cubic metre,,1S,GC/m³,10⁹ C/m³
 ,A85,gigaelectronvolt,,1S,GeV,10⁹ eV
 ,A86,gigahertz,,1S,GHz,10⁹ Hz
-,A87,gigaohm,,1S,GΩ,10⁹ Ω
-,A88,gigaohm metre,,1S,GΩ·m,10⁹ Ω x m
+,A87,gigaohm,,1S,GΩ,10⁹ Ω
+,A88,gigaohm metre,,1S,GΩ·m,10⁹ Ω x m
 ,A89,gigapascal,,1S,GPa,10⁹ Pa
 ,A9,rate,A unit of quantity expressed as a rate for usage of a facility or service.,3.9,,
 ,A90,gigawatt,,1S,GW,10⁹ W
@@ -318,9 +318,9 @@ D,B40,kilogram-force per square metre,,2,kgf/m²,"9,806 65 Pa"
 ,B46,kilomole per cubic metre,,1S,kmol/m³,10³ mol/m³
 ,B47,kilonewton,,1S,kN,10³ N
 ,B48,kilonewton metre,,1S,kN·m,10³ N x m
-,B49,kiloohm,,1S,kΩ,10³ Ω
+,B49,kiloohm,,1S,kΩ,10³ Ω
 X,B5,billet,,3.9,,
-,B50,kiloohm metre,,1S,kΩ·m,10³ Ω x m
+,B50,kiloohm metre,,1S,kΩ·m,10³ Ω x m
 D,B51,kilopond,Synonym: kilogram-force,2,kp,"9,806 65 N"
 ,B52,kilosecond,,1S,ks,10³ s
 ,B53,kilosiemens,,1S,kS,10³ S
@@ -347,8 +347,8 @@ D,B65,maxwell,,3.5,Mx,10⁻⁸ Wb
 ,B72,megagram per cubic metre,,1S,Mg/m³,10³ kg/m³
 ,B73,meganewton,,1S,MN,10⁶ N
 ,B74,meganewton metre,,1S,MN·m,10⁶ N x m
-,B75,megaohm,,1S,MΩ,10⁶ Ω
-,B76,megaohm metre,,1S,MΩ·m,10⁶ Ω x m
+,B75,megaohm,,1S,MΩ,10⁶ Ω
+,B76,megaohm metre,,1S,MΩ·m,10⁶ Ω x m
 ,B77,megasiemens per metre,,1S,MS/m,10⁶ S/m
 ,B78,megavolt,,1S,MV,10⁶ V
 ,B79,megavolt per metre,,1S,MV/m,10⁶ V/m
@@ -368,8 +368,8 @@ X,B9,batt,,3.9,,
 ,B91,microhenry per metre,,1S,µH/m,10⁻⁶ H/m
 ,B92,micronewton,,1S,µN,10⁻⁶ N
 ,B93,micronewton metre,,1S,µN·m,10⁻⁶ N x m
-,B94,microohm,,1S,µΩ,10⁻⁶ Ω
-,B95,microohm metre,,1S,µΩ·m,10⁻⁶ Ω x m
+,B94,microohm,,1S,µΩ,10⁻⁶ Ω
+,B95,microohm metre,,1S,µΩ·m,10⁻⁶ Ω x m
 ,B96,micropascal,,1S,µPa,10⁻⁶ Pa
 ,B97,microradian,,1S,µrad,10⁻⁶ rad
 ,B98,microsecond,,1S,µs,10⁻⁶ s
@@ -416,7 +416,7 @@ X,C2,carset,,3.5,,
 ,C20,millinewton,,1S,mN,10⁻³ N
 ,C21,kibibit,A unit of information equal to 2¹⁰ (1024) bits (binary digits).,3.6,Kibit,
 ,C22,millinewton per metre,,1S,mN/m,10⁻³ N/m
-,C23,milliohm metre,,1S,mΩ·m,10⁻³ Ω x m
+,C23,milliohm metre,,1S,mΩ·m,10⁻³ Ω x m
 ,C24,millipascal second,,1S,mPa·s,10⁻³ Pa x s
 ,C25,milliradian,,1S,mrad,10⁻³ rad
 ,C26,millisecond,,1S,ms,10⁻³ s
@@ -441,7 +441,7 @@ X,C4,carload,,3.5,,
 ,C43,nanohenry,,1S,nH,10⁻⁹ H
 ,C44,nanohenry per metre,,1S,nH/m,10⁻⁹ H/m
 ,C45,nanometre,,1S,nm,10⁻⁹ m
-,C46,nanoohm metre,,1S,nΩ·m,10⁻⁹ Ω·x m
+,C46,nanoohm metre,,1S,nΩ·m,10⁻⁹ Ω·x m
 ,C47,nanosecond,,1S,ns,10⁻⁹ s
 ,C48,nanotesla,,1S,nT,10⁻⁹ T
 ,C49,nanowatt,,1S,nW,10⁻⁹ W
@@ -457,8 +457,8 @@ X,C5,cost,,3.9,,
 ,C58,newton second per metre,,1,N·s/m,N x s/m
 ,C59,octave,A unit used in music to describe the ratio in frequency between notes.,1,,
 X,C6,cell,,3.9,,
-,C60,ohm centimetre,,1S,Ω·cm,10⁻² Ω x m 
-,C61,ohm metre,,1,Ω·m,Ω x m
+,C60,ohm centimetre,,1S,Ω·cm,10⁻² Ω x m 
+,C61,ohm metre,,1,Ω·m,Ω x m
 ,C62,one,Synonym: unit,1,1,1
 ,C63,parsec,,1,pc,"3,085 678 x 10¹⁶ m"
 ,C64,pascal per kelvin,,1,Pa/K,Pa/K
@@ -711,7 +711,7 @@ X,E3,trailer,,3.4,,
 ,E42,kilogram-force per square centimetre,A unit of pressure defining the number of kilograms force per square centimetre.,2,kgf/cm²,"9,806 65 x 10⁴ Pa"
 ,E43,joule per square centimetre,A unit of energy defining the number of joules per square centimetre.,1M,J/cm²,10⁴ J/m²
 ,E44,kilogram-force metre per square centimetre,A unit of torsion defining the torque kilogram-force metre per square centimetre.,3.5,kgf·m/cm²,
-,E45,milliohm,,1S,mΩ,10⁻³ Ω
+,E45,milliohm,,1S,mΩ,10⁻³ Ω
 ,E46,kilowatt hour per cubic metre,A unit of energy consumption expressed as kilowatt hour per cubic metre.,3.1,kW·h/m³,"3,6 x 10⁶ J/m³"
 ,E47,kilowatt hour per kelvin,A unit of energy consumption expressed as kilowatt hour per kelvin.,3.1,kW·h/K,"3,6 x 10⁶ J/K"
 ,E48,service unit,A unit of count defining the number of service units (service unit: defined period / property / facility / utility of supply).,3.5,,
@@ -826,9 +826,9 @@ X,F1,thousand cubic foot per day,,3.8,,
 ,F51,centimetre per kelvin,,1M,cm/K,10⁻² m x K⁻¹
 ,F52,metre per kelvin,,1M,m/K,m x K⁻¹
 ,F53,millimetre per kelvin,,1M,mm/K,10⁻³ m x K⁻¹
-,F54,milliohm per metre,,1M,mΩ/m,10⁻³ Ω/m
-,F55,ohm per mile (statute mile),,2,Ω/mi,"6,213 71 × 10⁻⁴  Ω/m"
-,F56,ohm per kilometre,,1M,Ω/km,10⁻³ Ω/m
+,F54,milliohm per metre,,1M,mΩ/m,10⁻³ Ω/m
+,F55,ohm per mile (statute mile),,2,Ω/mi,"6,213 71 × 10⁻⁴  Ω/m"
+,F56,ohm per kilometre,,1M,Ω/km,10⁻³ Ω/m
 ,F57,milliampere per pound-force per square inch,,2,mA/(lbf/in²),"1,450 38 × 10⁻⁷ kg⁻¹ x m x s² x A"
 ,F58,reciprocal bar,,1M,1/bar,bar⁻¹
 ,F59,milliampere per bar,,1M,mA/bar,10⁻⁸ kg⁻¹ x m x s² x A
@@ -988,8 +988,8 @@ X,G7,microfiche sheet,,3.9,,
 ,G95,litre per bar,,1M,l/bar,10⁻⁸ kg⁻¹ x m⁴ x s²
 ,G96,cubic metre per bar,,1M,m³/bar,10⁻⁵ kg⁻¹ x m⁴ x s²
 ,G97,millilitre per bar,,1M,ml/bar,10⁻¹¹ kg⁻¹ x m⁴ x s²
-,G98,microhenry per kiloohm,,1M,µH/kΩ,10⁻⁹ s
-,G99,microhenry per ohm,,1M,µH/Ω,10⁻⁶ s
+,G98,microhenry per kiloohm,,1M,µH/kΩ,10⁻⁹ s
+,G99,microhenry per ohm,,1M,µH/Ω,10⁻⁶ s
 ,GB,gallon (US) per day,,3.5,gal (US)/d,"4,381 264 x 10⁻⁸ m³/s"
 ,GBQ,gigabecquerel,,1M,GBq,10⁹ Bq
 X,GC,gram per 100 gram,,3.7,,
@@ -1027,10 +1027,10 @@ X,GW,gallon per thousand cubic foot,,3.5,,
 ,GWH,gigawatt hour,,1S,GW·h,"3,6 x 10¹² J"
 X,GY,gross yard,,3.1,,
 X,GZ,gage system,,3.9,,
-,H03,henry per kiloohm,,1M,H/kΩ,10⁻³ s
-,H04,henry per ohm,,1M,H/Ω,s
-,H05,millihenry per kiloohm,,1M,mH/kΩ,10⁻⁶ s
-,H06,millihenry per ohm,,1M,mH/Ω,10⁻³ s
+,H03,henry per kiloohm,,1M,H/kΩ,10⁻³ s
+,H04,henry per ohm,,1M,H/Ω,s
+,H05,millihenry per kiloohm,,1M,mH/kΩ,10⁻⁶ s
+,H06,millihenry per ohm,,1M,mH/Ω,10⁻³ s
 ,H07,pascal second per bar,,1M,Pa·s/bar,10⁻⁵ s
 ,H08,microbecquerel,,1M,µBq,10⁻⁶ Bq
 ,H09,reciprocal year,,1M,1/y,"3,168 81 x 10⁻⁸ s⁻¹"
@@ -1051,7 +1051,7 @@ X,H2,half litre,,3.8,,
 ,H23,volt per inch,,2,V/in,"3,937 007 874 × 10¹ m x kg x s⁻³ x A⁻¹"
 ,H24,volt per microsecond,,1S,V/µs,10⁶ V/s
 ,H25,percent per kelvin,"A unit of proportion, equal to 0.01, in relation to the SI base unit Kelvin.",3.7,%/K,10⁻² K⁻¹
-,H26,ohm per metre,,1M,Ω/m,Ω/m
+,H26,ohm per metre,,1M,Ω/m,Ω/m
 ,H27,degree per metre,,2,°/m,"1,745 329 x 10⁻² rad/m"
 ,H28,microfarad per kilometre,,1S,µF/km,10⁻⁹ F/m
 ,H29,microgram per litre,,1M,µg/l,10⁻⁶ m⁻³ x kg
@@ -1061,15 +1061,15 @@ X,H2,half litre,,3.8,,
 ,H33,farad per kilometre,,1S,F/km,10⁻³ F/m
 ,H34,hertz metre,,2,Hz·m,Hz x m
 ,H35,kelvin metre per watt,,1,K·m/W,K x m⁻¹ x kg⁻¹ x s³
-,H36,megaohm per kilometre,,1M,MΩ/km,10³ Ω/m
-,H37,megaohm per metre,,1M,MΩ/m,10⁶ Ω/m
+,H36,megaohm per kilometre,,1M,MΩ/km,10³ Ω/m
+,H37,megaohm per metre,,1M,MΩ/m,10⁶ Ω/m
 ,H38,megaampere,,1S,MA,10⁶ A
 ,H39,megahertz kilometre,,2,MHz·km,10⁹ Hz x m
 ,H40,newton per ampere,,1,N/A,kg x m x s⁻² x A⁻¹
 ,H41,"newton metre watt to the power minus 0,5",,2,N·m·W⁻⁰‧⁵,kg x m² x s⁻² x W⁻⁰‧⁵
 ,H42,pascal per metre,,1M,Pa/m,m⁻² kg x s⁻²
 ,H43,siemens per centimetre,,1S,S/cm,10² S/m
-,H44,teraohm,,1S,TΩ,10¹² Ω
+,H44,teraohm,,1S,TΩ,10¹² Ω
 ,H45,volt second per metre,,1,V·s/m,m x kg x s⁻² x A⁻¹
 ,H46,volt per second,,1S,V/s,m² x kg x s⁻⁴ x A⁻¹
 ,H47,watt per cubic metre,,1,W/m³,m⁻¹ x kg x s⁻³
@@ -1113,8 +1113,8 @@ Synonym: French, Charrière, Charrière gauge",2,Fg,"0,333 333 333 × 10⁻³ m"
 ,H84,gram millimetre,,1M,g·mm,10⁻⁶ kg x m
 ,H85,reciprocal week,,1M,1/wk,"1,647 989 452 868 × 10⁻⁶ s⁻¹"
 ,H87,piece,"A unit of count defining the number of pieces (piece: a single item, article or exemplar).",3.8,,
-,H88,megaohm kilometre,,1S,MΩ·km,10⁹ Ω x m
-,H89,percent per ohm,"A unit of proportion, equal to 0.01, in relation to the SI derived unit ohm.",3.7,%/Ω,10⁻² Ω⁻¹
+,H88,megaohm kilometre,,1S,MΩ·km,10⁹ Ω x m
+,H89,percent per ohm,"A unit of proportion, equal to 0.01, in relation to the SI derived unit ohm.",3.7,%/Ω,10⁻² Ω⁻¹
 ,H90,percent per degree,"A unit of proportion, equal to 0.01, in relation to an angle of one degree.",3.7,%/°,"0,572 957 8 rad⁻¹"
 ,H91,percent per ten thousand,"A unit of proportion, equal to 0.01, in relation to multiples of ten thousand.",3.7,%/10000,10⁻⁶
 ,H92,percent per one hundred thousand,"A unit of proportion, equal to 0.01, in relation to multiples of one hundred thousand.",3.7,%/100000,10⁻⁷
@@ -1543,9 +1543,9 @@ X,M0,magnetic tape,,3.6,,
 ,M21,reciprocal kilovolt - ampere reciprocal hour,,2,1/kVAh,"2,777 778 x 10⁻⁷ (V x A x s)⁻¹"
 ,M22,millilitre per square centimetre minute,,2,(ml/min)/cm²,"2,777 778 x 10⁻⁶  (m³/s)/m²"
 ,M23,newton per centimetre,,1M,N/cm,10² N/m
-,M24,ohm kilometre,,1M,Ω·km,10³ Ω x m
+,M24,ohm kilometre,,1M,Ω·km,10³ Ω x m
 ,M25,percent per degree Celsius,"A unit of proportion, equal to 0.01, in relation to a temperature of one degree.",3.7,%/°C,10⁻² °C⁻¹
-,M26,gigaohm per metre,,2,GΩ/m,10⁹ Ω/m
+,M26,gigaohm per metre,,2,GΩ/m,10⁹ Ω/m
 ,M27,megahertz metre,,2,MHz·m,10⁶ Hz x m
 ,M29,kilogram per kilogram,,1S,kg/kg,1
 ,M30,reciprocal volt - ampere reciprocal second,,1S,1/(V·A·s),(V x A x s)⁻¹
@@ -1571,7 +1571,8 @@ X,M0,magnetic tape,,3.6,,
 ,M49,chain (based on U.S. survey foot),Unit of the length according the Anglo-American system of units.,2,ch (US survey) ,"2,011684 x 10 m"
 ,M5,microcurie,,2S,µCi,"3,7 x 10⁴ Bq"
 ,M50,furlong,Unit commonly used in Great Britain at rural distances: 1 furlong = 40 rods = 10 chains (UK) = 1/8 mile = 1/10 furlong = 220 yards = 660 foot.,2,fur,"2,011 68 x 10² m"
-,M51,foot (U.S. survey) ,"Unit commonly used in the United States for ordnance survey.",2,ft (US survey) ,"3,048 006 x 10⁻¹ m"
+,M51,foot (U.S. survey) ,"Unit commonly used in the United States for ordnance survey.
+",2,ft (US survey) ,"3,048 006 x 10⁻¹ m"
 ,M52,mile (based on U.S. survey foot) ,Unit commonly used in the United States for ordnance survey.,2,mi (US survey) ,"1,609347 x 10³ m"
 ,M53,metre per pascal,SI base unit metre divided by the derived SI unit pascal.,1M,m/Pa,kg⁻¹ x m² x s²
 ,M55,metre per radiant,Unit of the translation factor for implementation from rotation to linear movement.,1S,m/rad,m/rad
@@ -1795,7 +1796,7 @@ X,NY,pound per air dry metric ton,,3.5,,
 ",3.1,,
 +,ODK,ODS Kilograms,A unit of measure calculated by multiplying the mass of the substance in kilograms and the ozone-depleting potential for the substance.,3.1,,
 +,ODM,ODS Milligrams,A unit of measure calculated by multiplying the mass of the substance in milligrams and the ozone-depleting potential for the substance.,3.1,,
-,OHM,ohm,,1,Ω,Ω
+,OHM,ohm,,1,Ω,Ω
 ,ON,ounce per square yard,,2,oz/yd²,"3,390 575 x 10⁻² kg/m²"
 ,ONZ,ounce (avoirdupois),,2,oz,"2,834 952 x 10⁻² kg"
 X,OP,two pack,,3.2,,
@@ -1819,8 +1820,8 @@ X,P0,page - electronic,,3.9,,
 ,P2,pound per foot,,2,lb/ft,"1,488 164 kg/m"
 ,P20,kilojoule per hour,Quotient from the 1000-fold of the derived SI unit joule divided by the unit hour.,1M,kJ/h,"2,777 78 x 10⁻¹ W"
 ,P21,kilojoule per day,Quotient from the 1000-fold of the derived SI unit joule divided by the unit day.,1M,kJ/d,"1,157 41 x 10⁻² W"
-,P22,nanoohm,"0,000 000 001-fold of the derived SI unit ohm.",1M,nΩ,10⁻⁹ Ω
-,P23,ohm circular-mil per foot ,Unit of resistivity.,2,Ω·cmil/ft ,"1,662 426 x 10⁻⁹ Ω x m"
+,P22,nanoohm,"0,000 000 001-fold of the derived SI unit ohm.",1M,nΩ,10⁻⁹ Ω
+,P23,ohm circular-mil per foot ,Unit of resistivity.,2,Ω·cmil/ft ,"1,662 426 x 10⁻⁹ Ω x m"
 ,P24,kilohenry,1000-fold of the derived SI unit henry.,1M,kH,10³ H
 ,P25,lumen per square foot ,Derived SI unit lumen divided by the power of the unit foot according to the Anglo-American and Imperial system of units by exponent 2.,2,lm/ft²,"1,076 391 x 10¹ cd x sr / m²"
 ,P26,phot,"CGS (Centimetre-Gram-Second system) unit of luminance, defined as lumen by square centimetre.",2,ph,10⁴ cd x sr / m²
