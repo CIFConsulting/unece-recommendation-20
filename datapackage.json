@@ -19,40 +19,50 @@
 		"schema": {
 			"fields": [{
 					"name": "Group Number",
-					"type": "string"
+					"type": "string",
+					"description": ""
+
 				},
 				{
 					"name": "Sector",
-					"type": "string"
+					"type": "string",
+					"description": ""
 				},
 				{
 					"name": "Group ID",
-					"type": "string"
+					"type": "string",
+					"description": ""
 
 				},
 				{
 					"name": "Quantity",
-					"type": "string"
+					"type": "string",
+					"description": ""
 				},
 				{
 					"name": "Level/Category",
-					"type": "string"
+					"type": "string",
+					"description": ""
 				},
 				{
 					"name": "Status",
-					"type": "string"
+					"type": "string",
+					"description": ""
 				},
 				{
 					"name": "Common Code",
-					"type": "string"
+					"type": "string",
+					"description": ""
 				},
 				{
 					"name": "Name",
-					"type": "string"
+					"type": "string",
+					"description": ""
 				},
 				{
 					"name": "Description",
-					"type": "string"
+					"type": "string",
+					"description": ""
 
 				}
 			]
@@ -63,20 +73,24 @@
 		"schema": {
 			"fields": [{
 					"name": "Status",
-					"type": "string"
+					"type": "string",
+					"description": ""
 				},
 				{
 					"name": "Common Code",
-					"type": "string"
+					"type": "string",
+					"description": ""
 				},
 				{
 					"name": "Name",
-					"type": "string"
+					"type": "string",
+					"description": ""
 
 				},
 				{
 					"name": "Description",
-					"type": "string"
+					"type": "string",
+					"description": ""
 				}
 			]
 		}
