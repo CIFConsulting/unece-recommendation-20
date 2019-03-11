@@ -19,14 +19,11 @@
 		"schema": {
 			"fields": [{
 					"name": "Group Number",
-					"type": "string",
-					"description": "A 2 character alpha numeric code value agreed by the UN/CEFACT content management group",
-					"pattern": "[A-Z]{2}"
+					"type": "string"
 				},
 				{
 					"name": "Sector",
-					"type": "string",
-					"description": ""
+					"type": "string"
 				},
 				{
 					"name": "Group ID",
@@ -42,15 +39,15 @@
 					"type": "string"
 				},
 				{
+					"name": "Status",
+					"type": "string"
+				},
+				{
 					"name": "Common Code",
 					"type": "string"
 				},
 				{
 					"name": "Name",
-					"type": "string"
-				},
-				{
-					"name": "Conversion Factor",
 					"type": "string"
 				},
 				{
@@ -62,30 +59,10 @@
 		}
 	},{
 		"path": "data/annexii.csv",
-		"name": "annexi",
+		"name": "annexii",
 		"schema": {
 			"fields": [{
-					"name": "Group Number",
-					"type": "string",
-					"description": "A 2 character alpha numeric code value agreed by the UN/CEFACT content management group",
-					"pattern": "[A-Z]{2}"
-				},
-				{
-					"name": "Sector",
-					"type": "string",
-					"description": ""
-				},
-				{
-					"name": "Group ID",
-					"type": "string"
-
-				},
-				{
-					"name": "Quantity",
-					"type": "string"
-				},
-				{
-					"name": "Level/Category",
+					"name": "Status",
 					"type": "string"
 				},
 				{
@@ -95,15 +72,11 @@
 				{
 					"name": "Name",
 					"type": "string"
-				},
-				{
-					"name": "Conversion Factor",
-					"type": "string"
+
 				},
 				{
 					"name": "Description",
 					"type": "string"
-
 				}
 			]
 		}
